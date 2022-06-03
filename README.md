@@ -2,12 +2,14 @@
 I am a FullStack developer, completing my third year of high school, with plans to study Computer Science, I have knowledge of JavaScript on both the front-end and the back-end. Enthusiastic about new technologies, I always seek to renew myself.
 ##
 <div align="center">
-  <a href="https://github.com/gjmedeiros">
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api?username=Snargio&show_icons=true&theme=darck"
     />
-  </a>
+  <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snargio&layout=compact&&theme=darck"
+    />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
