@@ -3,11 +3,11 @@ I am a FullStack developer, completing my third year of high school, with plans 
 ##
 <div align="center">
     <img
-      height="180em"
+      height="170em"
       src="https://github-readme-stats.vercel.app/api?username=Snargio&show_icons=true&theme=darck"
     />
   <img
-      height="180em"
+     height="170em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snargio&layout=compact&&theme=darck"
     />
 </div>
